@@ -6,4 +6,4 @@ The code for this project is in [this Jupyter Notebook](timeseries.ipynb).
 
 ## Enjoy!
 
-![Enjoy](images/with-a-pattern.png)
+![Enjoy](images/trades-zoom.png)
